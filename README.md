@@ -12,7 +12,7 @@ C++, OpenGL
 
 ## Mathematical Foundations :abacus:
 
-To understand the code to be written I advise your knowledge in the following branches of mathematics are well established. 
+To understand the code to be written I advise your knowledge in the following branches of mathematics are well established. I'll have to review the following since teachers' only job is to have you pass their class. 
 
 - Trigonometry
 - Linear Algebra
