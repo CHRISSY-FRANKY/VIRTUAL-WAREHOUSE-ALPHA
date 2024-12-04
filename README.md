@@ -8,7 +8,7 @@ My former position at GameStop HQ was quality control. I got fired because I ent
 
 ## Technical Details :wrench:
 
-C++, UnityEngine
+C++, UnrealEngine
 
 ## To Do :ballot_box_with_check:
 
