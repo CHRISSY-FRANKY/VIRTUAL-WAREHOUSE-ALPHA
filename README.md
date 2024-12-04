@@ -12,5 +12,7 @@ C++, UnrealEngine
 
 ## To Do :ballot_box_with_check:
 
+- Enable the user to build the warehouse
+  - a lot of stuff
 - Enable the user to navigate the warehouse
   - a lot of stuff
