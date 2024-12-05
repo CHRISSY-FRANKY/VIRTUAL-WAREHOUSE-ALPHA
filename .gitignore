@@ -1,32 +1,65 @@
-# Prerequisites
-*.d
+# Unreal Engine Generated Files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Platform-Specific Build Outputs
+/*/Binaries/
+/*/Intermediate/
+/*/Saved/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Visual Studio Generated Files
+.vs/
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Xcode Generated Files
+*.xcworkspace/
+*.xcodeproj/
 
-# Fortran module files
-*.mod
-*.smod
+# Rider Generated Files
+.idea/
+*.csproj.DotSettings
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Misc Generated Files
+*.log
 
-# Executables
-*.exe
-*.out
-*.app
+# Git LFS for Large Assets (like models, textures)
+*.uasset
+*.umap
+
+# Configurations (ignore if they are user-specific, include if they're project-specific)
+#Config/DefaultEditor*.ini
+#Config/DefaultEngine*.ini
+#Config/DefaultGame*.ini
+
+# Content Directory (assuming you use Git LFS for assets)
+#Content/
+# If you have specific folders for third-person view assets:
+#Content/Characters/ThirdPerson/
+#Content/Animations/ThirdPerson/
+#Content/Cameras/ThirdPerson/
+
+# Temporary or build-specific files
+*.Build.cs
+*.Target.cs
+
+# If you use automated build processes or CI/CD
+*.bat
+*.sh
+
+# Logs from testing or builds
+TestLogs/
+
+# Blueprints and other game-specific files that might be generated or modified frequently
+#*.uasset.meta
+#*.umap.meta
